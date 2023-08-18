@@ -1,16 +1,5 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Dr Matthew Sillence is a Senior Fellow of the Higher Education Academy (AdvanceHE). He received his doctorate from the University of East Anglia in the History of Art in 2009, following his BA (Warwick, 2001) and MA (York, 2003) and completed a Masters degree in Higher Education Practice in 2017. He is currently Associate Professor in Humanities for Postgraduate Education and Training, providing academic development modules for postgraduate researchers and their supervisors. His current interests are in doctoral education policy and practice, the integration of digital technologies into higher education research and teaching, and the enhancement of digital literacies in the arts and humanities.
