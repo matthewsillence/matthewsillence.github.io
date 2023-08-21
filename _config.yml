@@ -22,6 +22,7 @@ author: Matthew Sillence
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - My GitHub page: "https://github.com/matthewsillence"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
