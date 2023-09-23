@@ -21,7 +21,7 @@ author: Matthew Sillence
 
 navbar-links:
   About Me: "aboutme"
-  Links:
+  Resources:
     - My GitHub page: "https://github.com/matthewsillence"
     - My research profile: "https://research-portal.uea.ac.uk/en/persons/matthew-sillence"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
