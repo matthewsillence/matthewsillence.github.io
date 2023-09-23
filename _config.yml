@@ -21,9 +21,11 @@ author: Matthew Sillence
 
 navbar-links:
   About Me: "aboutme"
+  Links:
+    - GitHub page: "https://github.com/matthewsillence"
+    - Research profile: "https://research-portal.uea.ac.uk/en/persons/matthew-sillence"
+    - LinkedIn: "https://www.linkedin.com/in/matthewsillence/"
   Resources:
-    - My GitHub page: "https://github.com/matthewsillence"
-    - My research profile: "https://research-portal.uea.ac.uk/en/persons/matthew-sillence"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
