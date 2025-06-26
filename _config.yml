@@ -21,6 +21,7 @@ author: Matthew Sillence
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "home"
   Podcast: "pgrmatters"
   Key Links:
     - GitHub page: "https://github.com/matthewsillence"
@@ -57,6 +58,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: matthewsillence
   linkedin: matthewsillence
+  ORCID: 0000-0002-2588-8603
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
